@@ -237,7 +237,7 @@
                 // ACTUAL DECLARATION OF SECTIONS
                 $this->sections[] = array(
                     'title'  => __( 'Home Settings', 'redux-framework-demo' ),
-                    'desc'   => __( 'Redux Framework was created with the developer in mind. It allows for any theme developer to have an advanced theme panel with most of the features a developer would need. For more information check out the Github repo at: <a href="https://github.com/ReduxFramework/Redux-Framework">https://github.com/ReduxFramework/Redux-Framework</a>', 'redux-framework-demo' ),
+                    'desc'   => __( 'Redux Framework was created with the developer in mind. It allows for any theme developer to have an advanced theme panel with most of the features a developer would need. For more information check out the Github repo at: <a href="https://github.com/wpsearch/redux-framework">https://github.com/wpsearch/redux-framework</a>', 'redux-framework-demo' ),
                     'icon'   => 'el-icon-home',
                     // 'submenu' => false, // Setting submenu to false on a given section will hide it from the WordPress sidebar menu!
                     'fields' => array(
@@ -1772,7 +1772,7 @@
 
                 $this->args['admin_bar_links'][] = array(
                     //'id'    => 'redux-support',
-                    'href'   => 'https://github.com/ReduxFramework/redux-framework/issues',
+                    'href'   => 'https://github.com/wpsearch/redux-framework/issues',
                     'title' => __( 'Support', 'redux-framework-demo' ),
                 );
 

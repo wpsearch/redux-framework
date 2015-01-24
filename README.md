@@ -3,7 +3,7 @@
 WordPress options framework which uses the [WordPress Settings API](http://codex.wordpress.org/Settings_API "WordPress Settings API"), Custom Error/Validation Handling, Custom Field/Validation Types, and import/export functionality.
 
 ## Posting Guidelines for issues and questions ##
-When using our Issue Tracker, you may ask questions where you may be a bit lost or need help understanding the documentation. If, however, you find a bug we require you to read and provide the information contained in our [Contributing Guidelines](https://github.com/ReduxFramework/redux-framework/blob/master/CONTRIBUTING.md). If you do not provide this information, we will request it before we can support you.
+When using our Issue Tracker, you may ask questions where you may be a bit lost or need help understanding the documentation. If, however, you find a bug we require you to read and provide the information contained in our [Contributing Guidelines](https://github.com/wpsearch/redux-framework/blob/master/CONTRIBUTING.md). If you do not provide this information, we will request it before we can support you.
 
 If you are stuck in some of your own code, or need help with PHP and anything else not Redux specific, we request you purchase some [Premium Support](http://reduxframework.com/extension/premium-support/) and we will be happy to assist you. If we feel the issue is outside of our scope we will suggest you to purchase some [Premium Support](http://reduxframework.com/extension/premium-support/) in order for us to serve you.
 
@@ -31,7 +31,7 @@ https://github.com/ReduxFramework/ReduxFramework/wiki/translate
 
 ## Getting Started with Redux ##
 
-ReduxFramework has been built from the ground up to be the most flexible framework around. You can run it as an auto-updating plugin, or embed it inside your plugin or theme. It allows for multiple copies of itself within the same WordPress instance. For a guide on getting started please refer to [https://github.com/ReduxFramework/redux-framework/wiki/Getting-Started](https://github.com/ReduxFramework/redux-framework/wiki/Getting-Started).
+ReduxFramework has been built from the ground up to be the most flexible framework around. You can run it as an auto-updating plugin, or embed it inside your plugin or theme. It allows for multiple copies of itself within the same WordPress instance. For a guide on getting started please refer to [https://github.com/wpsearch/redux-framework/wiki/Getting-Started](https://github.com/wpsearch/redux-framework/wiki/Getting-Started).
 
 You can also [download our sample theme available here](https://github.com/ReduxFramework/ReduxSampleTheme) to start developing right away.
 
@@ -81,4 +81,4 @@ Send us an email at info@reduxframework.com so we can add you to our showcase!
 
 ## Changelog ##
 
-See [Changelog.md](https://github.com/ReduxFramework/redux-framework/blob/master/CHANGELOG.md)
+See [Changelog.md](https://github.com/wpsearch/redux-framework/blob/master/CHANGELOG.md)

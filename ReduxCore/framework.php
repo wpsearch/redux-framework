@@ -3044,6 +3044,9 @@
                     if ( isset( $this->args['dev_mode'] ) && $this->args['dev_mode'] ) {
                         echo '<span class="redux-dev-mode-notice">' . __( 'Developer Mode Enabled', 'redux-framework' ) . '</span>';
                     }
+                     if ( ! empty( $this->args['display_logo'] ) ) {
+                    echo "<img src='" . $this->args['display_logo'] . "' height='80' style='float:left'>";
+                    }
 
                     echo '<h2>' . $this->args['display_name'] . '</h2>';
 
